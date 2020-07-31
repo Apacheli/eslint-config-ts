@@ -1,0 +1,23 @@
+{
+  "name": "@apacheli/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "TypeScript ESLint config",
+  "main": ".eslintrc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apacheli/eslint-config-ts.git"
+  },
+  "author": "Apacheli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apacheli/eslint-config-ts/issues"
+  },
+  "homepage": "https://github.com/Apacheli/eslint-config-ts#readme",
+  "devDependencies": {
+    "@apacheli/eslint-config": "github:apacheli/eslint-config",
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "eslint": "^7.5.0",
+    "typescript": "^3.9.7"
+  }
+}
