@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Apacheli/eslint-config-ts#readme",
   "devDependencies": {
+    "@apacheli/eslint-config": "github:apacheli/eslint-config",
     "js-yaml": "^3.14.0"
   }
 }
