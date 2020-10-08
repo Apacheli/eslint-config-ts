@@ -19,8 +19,10 @@
     "url": "https://github.com/Apacheli/eslint-config-ts/issues"
   },
   "homepage": "https://github.com/Apacheli/eslint-config-ts#readme",
+  "dependencies": {
+    "@apacheli/eslint-config": "github:apacheli/eslint-config"
+  },
   "devDependencies": {
-    "@apacheli/eslint-config": "github:apacheli/eslint-config",
     "js-yaml": "^3.14.0"
   }
 }
